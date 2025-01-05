@@ -38,5 +38,4 @@ It helps ElectroHub to monitor the total profit, total sales and total orders ac
         Total Orders = COUNT('Fact Table'[Order ID])
 
         Total Net Sales = SUM('Fact Table'[Net Sales])
-Here are the snaps of Dashboard: 
-        ![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+
